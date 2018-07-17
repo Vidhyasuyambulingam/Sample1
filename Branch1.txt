@@ -1,0 +1,9 @@
+Colors Name
+Red
+Pink 
+Yellow 
+Green
+Orange
+Blue
+Black
+Gray
